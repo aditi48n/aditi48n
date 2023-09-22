@@ -1,4 +1,6 @@
-Hi there :wave: I'm Aditi! 
+<h1 align="center">
+  Hi there :wave: I'm Aditi! 
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
@@ -8,10 +10,9 @@ Hi there :wave: I'm Aditi!
   <a href="https://www.linkedin.com/in/aditi-nagaraj-195389176">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="aditi48nagaraj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditi48n&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **aditi48n/aditi48n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
