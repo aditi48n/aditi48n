@@ -12,19 +12,15 @@
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditi48n&theme=dark&background=000000)](https://git.io/streak-stats)
+<h2 align="center">
+ :woman_technologist: About Me 
+</h1>
 
-<!--
-**aditi48n/aditi48n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on automating computational pipelines using Snakemake and Nextflow
+- 🌱 I’m currently exploring Technical and Creative content writing
+- 📫 How to reach me: aditi48nagaraj@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ In my free time I love to paint! 🖌️
+</div>
