@@ -32,9 +32,9 @@
  
 </div>
 
-<h2>
- Programming Language, Design and Development tools:
-</h2>
+<h3>
+ Programming Languages, Design and Development tools:
+</h3>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
