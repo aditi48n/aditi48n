@@ -1,5 +1,4 @@
-
-
+Hi there :wave: I'm Aditi! 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
@@ -8,6 +7,9 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aditi-nagaraj-195389176">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="aditi48nagaraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
