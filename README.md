@@ -1,10 +1,20 @@
 <h1 align="center">
-  Hi there :wave: I'm Aditi! 
+  Hi there :wave:  
 </h1>
+
+<br />
+
+<div align="center">
+  I'm Aditi! I am a Bioinformatician from India 🇮🇳
+</div>
+
+<br />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
 </div>
+
+<br />
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aditi-nagaraj-195389176">
@@ -17,8 +27,6 @@
 </h2>
 
 <div>
-
-  I am a Bioinformatician from India 🇮🇳
 
  🔭 I’m currently working on automating computational pipelines using Snakemake and Nextflow
  
