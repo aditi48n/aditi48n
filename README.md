@@ -12,11 +12,11 @@
   </a>
 </div>
 
-<h2 align="center">
+<h2>
  :woman_technologist: About Me 
-</h1>
+</h2>
 
-<div align="center">
+<div>
 
   I am a Bioinformatician from India 🇮🇳
 
@@ -32,7 +32,11 @@
  
 </div>
 
-<div align="center">
+<h2>
+ Programming Language, Design and Development tools:
+</h2>
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
