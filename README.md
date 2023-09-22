@@ -22,11 +22,13 @@
   </a>
 </div>
 
-<h2>
+<br />
+
+<h2 align="center">
  :woman_technologist: About Me 
 </h2>
 
-<div>
+<div align="center">
 
  🔭 I’m currently working on automating computational pipelines using Snakemake and Nextflow
  
@@ -42,11 +44,11 @@
 
 <br />
 
-<h3>
+<h2 align="center">
  Programming Languages, Design and Development tools:
-</h3>
+</h2>
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
