@@ -30,7 +30,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on automating computational pipelines using Snakemake and Nextflow
+ 🔭 I’m working on automating computational pipelines using Snakemake and Nextflow
  
  🌱 I’m currently exploring technical and creative content writing
  
